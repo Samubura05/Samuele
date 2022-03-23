@@ -2,7 +2,7 @@
 
 CHE COS'E' MBOT?
 
-https://www.peercode.it/wp-content/uploads/2021/04/DESCRIZIONE-MBOT.pdf
+https://www.weturtle.org/dettaglio-tutorial/42/tutorial-motori-makeblock-mbot.html
 
 COME SI ASSEMBLA?
 
