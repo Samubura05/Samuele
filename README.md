@@ -2,7 +2,7 @@
 
 CHE COS'E' MBOT?
 
-pER SAPERLO CLICCA [QUI](https://www.weturtle.org/dettaglio-tutorial/42/tutorial-motori-makeblock-mbot.html)
+PER SAPERLO CLICCA [QUI](https://www.weturtle.org/dettaglio-tutorial/42/tutorial-motori-makeblock-mbot.html)
 
 COME SI ASSEMBLA?
 
