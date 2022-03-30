@@ -18,6 +18,10 @@ RICONOSCIMENTO FACCIALE PER ETA' E SORRISO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X7SoBuZeuWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+RICONOSCIMENTO VOCALE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y6nacX1TGig?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
