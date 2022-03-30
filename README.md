@@ -22,6 +22,13 @@ RICONOSCIMENTO VOCALE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y6nacX1TGig?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+RICONOSCIMENTO VOCALE PER MUOVERE IL ROBOT 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Grtb2LgdJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+RICONOSCIMENTO DELLE EMOZIONI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U31KaKNiiY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
