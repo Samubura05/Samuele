@@ -40,8 +40,7 @@ RICONOSCIMENTO DELLE EMOZIONI
 
 
 
-![image](https://user-images.githubusercontent.com/101712540/160821235-338c3614-9317-490f-bb23-40fed45ad809.png)
-
+ 
 
 
 
