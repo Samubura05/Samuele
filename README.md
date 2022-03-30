@@ -7,7 +7,7 @@ Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatt
 
 COME SI ASSEMBLA?
 
-![image](https://user-images.githubusercontent.com/101712540/160816781-22f0bc8a-68d8-43ef-8a7f-cb38c0ea9d81.png)
+![image](https://user-images.github <img src="https://toppng.com/uploads/preview/freccia-in-giu-11551060237kj9konisct.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="freccia in giu PNG image with transparent background | TOPpng" data-noaft="1" style="width: 383px; height: 391.663px; margin: 0px;"> usercontent.com/101712540/160816781-22f0bc8a-68d8-43ef-8a7f-cb38c0ea9d81.png)
 
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif">
  
