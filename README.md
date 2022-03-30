@@ -8,7 +8,7 @@ Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatt
 COME SI ASSEMBLA?
 
 ![image](https://user-images.githubusercontent.com/101712540/160816781-22f0bc8a-68d8-43ef-8a7f-cb38c0ea9d81.png)
-
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GidMFqI2Y4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ RICONOSCIMENTO FACCIALE PER ETA' E SORRISO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X7SoBuZeuWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif">
+
  
 RICONOSCIMENTO VOCALE
 
