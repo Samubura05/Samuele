@@ -6,7 +6,6 @@ Il robot Mbot della makeblock è un kit educativo utilizzato per lo studio e l'a
 Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatti all'introduzione della robotica, in quanto ti avvicina a questo mondo in modo intutitivo e divertente e rende l'insegnamento e l'apprendimento della programmazione robotica semplice e piacevole.
 
 COME SI ASSEMBLA?
- <img src="https://e6.pngbyte.com/pngpicture/385031/png-down-arrow-icon-png-Arrow-Down.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="giù icona freccia png freccia in basso,curved arrow transparent png |  Pngbyte" data-noaft="1" style="width: 383px; height: 393.213px; margin: 0px;">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GidMFqI2Y4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
