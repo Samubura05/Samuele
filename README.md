@@ -5,6 +5,12 @@ CHE COS'E' MBOT?
 Il robot Mbot della makeblock è un kit educativo utilizzato per lo studio e l'apprendimento delle marterie STEAM e adatto per tutti i principianti alle prime armi.
 Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatti all'introduzione della robotica, in quanto ti avvicina a questo mondo in modo intutitivo e divertente e rende l'insegnamento e l'apprendimento della programmazione robotica semplice e piacevole.
 
+COMPONENTI MBOT 
+
+![image](https://user-images.githubusercontent.com/101712540/161950753-905af191-6647-4a75-98b7-d26090f35068.png)
+
+
+
 COME SI ASSEMBLA?
 
 <img src="https://gilgameshedizioni.com/wp-content/uploads/2019/03/3-frecce-giu.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="3-frecce-giu | 
