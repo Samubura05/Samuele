@@ -6,7 +6,7 @@ Il robot Mbot della makeblock è un kit educativo utilizzato per lo studio e l'a
 Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatti all'introduzione della robotica, in quanto ti avvicina a questo mondo in modo intutitivo e divertente e rende l'insegnamento e l'apprendimento della programmazione robotica semplice e piacevole.
 
 COMPONENTI MBOT 
-
+![image](https://user-images.githubusercontent.com/101712540/161950753-905af191-6647-4a75-98b7-d26090f35068.png)      
                                                                                                                         -1 Scheda elettronica mCore Arduino compatibile 
                                                                                                                         -1 Chassis blu in alluminio 
                                                                                                                         -1 Modulino bluetooth
@@ -20,8 +20,8 @@ COMPONENTI MBOT
                                                                                                                         -1 Portabatterie con plug Dc
                                                                                                                         -1 Giravite
                                                                                                                         -1 Ball caster
-
-![image](https://user-images.githubusercontent.com/101712540/161950753-905af191-6647-4a75-98b7-d26090f35068.png)        
+                                                                                                                        
+                                                                                                                                                                           
                                                                                                                        
                                                                                                                         
 
