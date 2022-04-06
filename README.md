@@ -8,8 +8,6 @@ Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatt
 COME SI ASSEMBLA?
 
 
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif">
- 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GidMFqI2Y4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
