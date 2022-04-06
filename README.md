@@ -35,27 +35,14 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
  <img src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif" style="border-width: 1px; border-style: solid; width: 354px; height: 318px;">
 
  COME SI PROGRAMMA?
-
-
-PER COSA LO PUOI USARE?
-
-RICONOSCIMENTO FACCIALE PER ETA' E SORRISO
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X7SoBuZeuWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
  
-RICONOSCIMENTO VOCALE
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y6nacX1TGig?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ L'Mbot si può programmare attraverso Scrach 2.0 che è un linguaggio che permette a tutti, anche a quelli che non conoscono nulla sulla progettazione, di realizzare storie interattive, giochi e animazioni. Grazie a questa app possiamo programmare il nostro robottino in maniera da fargli fare quello che vogliamo. 
+ qui vi faccio vedere alcuni esempi di come abbiamo programmato l'Mbot:
 
 RICONOSCIMENTO VOCALE PER MUOVERE IL ROBOT 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Grtb2LgdJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-RICONOSCIMENTO DELLE EMOZIONI
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U31KaKNiiY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
