@@ -9,6 +9,9 @@ COME SI ASSEMBLA?
 <img src="https://gilgameshedizioni.com/wp-content/uploads/2019/03/3-frecce-giu.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="3-frecce-giu | 
 Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margin: 45.6795px 0px;">
 
+ <img src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif" style="border-width: 1px; border-style: solid; width: 354px; height: 318px;">
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GidMFqI2Y4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
