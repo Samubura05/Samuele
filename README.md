@@ -40,7 +40,6 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
 
  # Come far muovere l'Mbot?
 
-
 "C:\Users\Buratti Samuele\Videos\Spostamento Mbot.mp4"
 
 
