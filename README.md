@@ -38,8 +38,10 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
  L'Mbot si può programmare attraverso Scrach 2.0 che è un linguaggio che permette a tutti, anche a quelli che non conoscono nulla sulla progettazione, di realizzare storie interattive, giochi e animazioni. Grazie a questa app possiamo programmare il nostro robottino in maniera da fargli fare quello che vogliamo. 
  qui vi faccio vedere alcuni esempi di come abbiamo programmato l'Mbot:
 # Come far muovere Mbot
- 
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/oUsr08yC0Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Come far seguire una linea al nostro Mbot
 
 
 
