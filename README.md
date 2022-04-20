@@ -33,8 +33,7 @@ Il kit è uno dei piu facile da assemblare e da programmare e uno dei più adatt
 Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margin: 45.6795px 0px;">
 
  <img src="https://www.futurashop.it/image/catalog/data/robotica/assembly.gif" style="border-width: 1px; border-style: solid; width: 354px; height: 318px;">
-
- # Come si programma?
+# Come si programma?
  
  L'Mbot si può programmare attraverso Scrach 2.0 che è un linguaggio che permette a tutti, anche a quelli che non conoscono nulla sulla progettazione, di realizzare storie interattive, giochi e animazioni. Grazie a questa app possiamo programmare il nostro robottino in maniera da fargli fare quello che vogliamo. 
  qui vi faccio vedere alcuni esempi di come abbiamo programmato l'Mbot:
@@ -42,7 +41,7 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
  # Come far muovere l'Mbot?
 
 
-[image]"C:\Users\Buratti Samuele\Videos\Spostamento Mbot.mp4"
+"C:\Users\Buratti Samuele\Videos\Spostamento Mbot.mp4"
 
 
 
