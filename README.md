@@ -43,6 +43,8 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
 
 # Come far seguire una linea al nostro Mbot
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVURtTVIZpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
  
