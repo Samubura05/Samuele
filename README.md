@@ -39,8 +39,7 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
  qui vi faccio vedere alcuni esempi di come abbiamo programmato l'Mbot:
 # Come far muovere Mbot
 
-"C:\Users\Buratti Samuele\Videos\Spostamento Mbot.mp4"
-
+https://youtu.be/oUsr08yC0Y4
 
 
 
