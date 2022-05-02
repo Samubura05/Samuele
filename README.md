@@ -45,7 +45,8 @@ Quando abbiamo iniziato a parlare dell'Mbot abbiamo istallato un applicazione (m
 
 # Come far seguire una linea al nostro Mbot
 
-
+Dopo aver visto come far muovere l'Mbot, impariamo i comandi da usare per fargli seguire una linea.
+Come primo passaggio abbiamo creato dei nuovi blocchi per svolgere il comando che gli abbiamo dato.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVURtTVIZpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
