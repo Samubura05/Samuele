@@ -39,11 +39,13 @@ Gilgamesh Edizioni" data-noaft="1" style="width: 383px; height: 142.341px; margi
  qui vi faccio vedere alcuni esempi di come abbiamo programmato l'Mbot:
 # Come far muovere Mbot
 
-Quando abbiamo iniziato a parlare dell'Mbot abbiamo istallato un applicazione (mBlock) che consiste nel programmare il nostro robottino in modo tale da fargli fare quello che noi vogliamo. Quando si apre la nostra applicazione ci ritroviamo davanti dei blocchi. Prima di tutto dobbiamo cambiare il dispositivo e mettere quello dell'Mbot. Una volta cambiato il dispositivo abbiamo iniziato a mettere i blocchi
+Quando abbiamo iniziato a parlare dell'Mbot abbiamo istallato un applicazione (mBlock) che consiste nel programmare il nostro robottino in modo tale da fargli fare quello che vogliamo. Quando si apre la nostra applicazione ci ritroviamo davanti dei blocchi. Prima di tutto dobbiamo cambiare il dispositivo e mettere quello dell'Mbot. Una volta cambiato il dispositivo abbiamo iniziato a mettere i blocchi
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/oUsr08yC0Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Come far seguire una linea al nostro Mbot
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVURtTVIZpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
