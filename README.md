@@ -52,6 +52,7 @@ Come primo passaggio abbiamo creato dei nuovi blocchi per svolgere il comando ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVURtTVIZpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Questa stupenda ricerca è stata fatta da Bova Cristian, Samuele Buratti e Samuele Buratti
 
  
 
